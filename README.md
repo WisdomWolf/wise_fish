@@ -2,7 +2,7 @@
 Instructions and Scripts for setting up an efficient fish environment
 
 1. Install [fish](http://fish.sh)
-  - `sudo apt install fish` (run fish --version after install, if it's not >=2.3 uninstall with `sudo apt remove fish` and then compile from source instead)
+  - `sudo apt install fish` (run fish --version after install, if it's not >=2.3 uninstall with `sudo apt remove fish` and then compile from source instead.)
   
 2. Install [Fisherman](http://fisherman.sh)
   - `curl -Lo ~/.config/fish/functions/fisher.fish --create-dirs git.io/fisher`
